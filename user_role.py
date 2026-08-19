@@ -40,6 +40,7 @@ while True:
                 users[username] = new_role
                 print("user role updated successfully")
             else:
+                
                 print("invalid role")
         else:
             print("user not found")            
